@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameAttempt</string>
+    <string name="logout">logout</string>
+    <string name="character">Character</string>
+    <string name="market">Market</string>
+    <string name="quests">Quests</string>
+</resources>
